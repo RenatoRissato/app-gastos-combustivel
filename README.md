@@ -63,3 +63,18 @@ GastosCombustivel/
 
 ```bash
 git clone https://github.com/RenatoRissato/app-gastos-combustivel.git
+```
+2. Abra o projeto no Android Studio.
+
+3. Conecte um dispositivo físico via USB (com modo desenvolvedor ativado) ou utilize um emulador.
+
+4. Clique em Run no Android Studio para instalar e executar o aplicativo no dispositivo escolhido.
+
+
+## 📜 Licença
+
+Este projeto é open source e está disponível sob a licença MIT.
+
+---
+
+Feito com ❤️ por [Renato Rissato](https://github.com/RenatoRissato) 🚀
