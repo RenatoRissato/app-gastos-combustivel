@@ -1,4 +1,4 @@
-# ⛽ GastosCombustível - Controle de Despesas com Combustível
+# ⛽ Aplicativo Android para Controle de Despesas com Combustível
 
 Este projeto foi desenvolvido para a faculdade no Android Studio usando Kotlin. O aplicativo calcula o total gasto com combustível considerando a autonomia do veículo, a distância percorrida e o valor pago por litro.
 
