@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido para a faculdade no Android Studio usando Kotlin. O aplicativo calcula o total gasto com combustível considerando a autonomia do veículo, a distância percorrida e o valor pago por litro.
 
-<img src="/path/para/imagem_preview.png" alt="Preview do App" >
+<img src="/Images/1.png" alt="Preview do App" >
 
 ---
 
